@@ -1,23 +1,17 @@
 package uk.akane.omni.ui.components
 
-import android.animation.ValueAnimator
-import android.content.Context
-import android.content.res.ColorStateList
 import android.os.Bundle
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.commit
+import com.google.android.material.bottomsheet.BottomSheetDialogFragment
+import com.google.android.material.button.MaterialButton
 import uk.akane.omni.R
 import uk.akane.omni.ui.fragments.CompassFragment
 import uk.akane.omni.ui.fragments.FlashlightFragment
 import uk.akane.omni.ui.fragments.LevelFragment
 import uk.akane.omni.ui.fragments.RulerFragment
-import com.google.android.material.bottomsheet.BottomSheetDialogFragment
-import com.google.android.material.button.MaterialButton
-import com.google.android.material.color.MaterialColors
-import com.google.android.material.color.utilities.ColorUtils
 
 class SwitchBottomSheet(
     private val callFragmentType : CallFragmentType
