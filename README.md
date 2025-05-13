@@ -10,8 +10,6 @@
 - Spirit Level
 - Ruler
 - Strength adjustable flashlight
-- Barometer (WIP)
-- Coin flipper (WIP)
 
 ## Installation
 You can download the latest stable version of the app from [GitHub releases](https://github.com/AkaneFoundation/Omni/releases/latest).
