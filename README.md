@@ -12,6 +12,7 @@
 - Strength adjustable flashlight
 
 ## Installation
+[<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" alt="Get it on IzzyOnDroid" height="80">](https://apt.izzysoft.de/fdroid/index/apk/uk.akane.omni)<br>
 You can download the latest stable version of the app from [GitHub releases](https://github.com/AkaneFoundation/Omni/releases/latest).
 
 ## Building
