@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "uk.akane.omni"
-    compileSdk = 34
+    compileSdk = 36
 
     androidResources {
         generateLocaleConfig = true
@@ -20,9 +20,9 @@ android {
     defaultConfig {
         applicationId = "uk.akane.omni"
         minSdk = 26
-        targetSdk = 34
-        versionCode = 3
-        versionName = "1.2"
+        targetSdk = 36
+        versionCode = 4
+        versionName = "1.3"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
