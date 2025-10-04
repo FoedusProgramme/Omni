@@ -4,7 +4,7 @@
 [![Static Badge](https://img.shields.io/badge/Telegram-Content?style=flat-square&logo=telegram&logoColor=black&color=white)](https://t.me/AkaneDev)
 
 ## Features
-- Up-to-date material 3 design
+- Up-to-date Material 3 design
 - Lightweight, no spyware or bloat
 - Compass with latitude & longitude
 - Spirit Level
